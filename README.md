@@ -1,1 +1,1 @@
-# DUAD
+# past-exercises
