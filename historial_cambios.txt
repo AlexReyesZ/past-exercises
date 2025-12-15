@@ -1,0 +1,15 @@
+COMMIT: 8217360
+- Qué cambió: Se agregaron ejercicios correspondientes a las semanas 1 a 8.
+- Por qué se hizo: Para subir el avance del curso y tener un respaldo remoto.
+
+COMMIT: 0bcd442
+- Qué cambió: Se resolvió un conflicto en README.md.
+- Por qué se hizo: Para dejar el archivo consistente entre la versión local y la remota.
+
+COMMIT: a19ed7c (origin/main)
+- Qué cambió: Commit inicial del repositorio en GitHub.
+- Por qué se hizo: Fue el primer archivo generado automáticamente por GitHub (README).
+
+COMMIT: d26568b (main)
+- Qué cambió: Commit inicial local.
+- Por qué se hizo: Crear la estructura base antes de conectar con GitHub.
